@@ -1,0 +1,1 @@
+- Beispieleinträge (beispieleintraege): beschreibung[string/textarea], kategorie[lookup/select], datum[date/date], kontakt_vorname[string/text], kontakt_nachname[string/text], kontakt_email[string/email], aktiv[bool], titel[string/text]

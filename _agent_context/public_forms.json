@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "beispieleintraege",
+      "app_id": "6af1d360d5a6c032d44fb878",
+      "path": "/rest/apps/6af1d360d5a6c032d44fb878/records",
+      "allowed_fields": [
+        "beschreibung",
+        "kategorie",
+        "datum",
+        "kontakt_vorname",
+        "kontakt_nachname",
+        "kontakt_email",
+        "aktiv",
+        "titel"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Beispieleinträge — Formular"
+    }
+  ]
+}
